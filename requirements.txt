@@ -1,0 +1,6 @@
+litellm>=1.60
+numpy>=1.24
+pandas>=2.0
+pyarrow>=14
+rdkit>=2023.9
+tqdm>=4.66

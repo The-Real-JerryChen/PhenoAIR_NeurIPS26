@@ -1,0 +1,9 @@
+{
+  "schema": "phenoair.reference_reliability_memory_alias",
+  "schema_version": 1,
+  "producer_version": "reference-memory-v1",
+  "level": "moa_novel",
+  "target_level": "moa_verified",
+  "target_asset_fingerprint": "75ec4e8ea74d842721556af706a92a23a5619b709b373668df29375eec4f9b53",
+  "reason": "MoA-Novel uses the MoA-Verified known-MoA reference panel."
+}
